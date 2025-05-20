@@ -8,7 +8,7 @@ With the script provided, simply use Draw Boxcast. modular and super easy to use
 
 - If you need an example, I include a BoxRaycastSampler.cs 
 
-- Watch the YouTube tutorial.
+- Watch the YouTube tutorial. (https://youtu.be/vlb5LKgxTec)
 
 Just a guy making games.
 Exploring the world of game development with Unity tutorials, coding tips, and shader magic, and fixing bugs.
@@ -17,8 +17,7 @@ game-related, sometimes not.
 
 🔥follow my YouTube @GameDevBox to find more Tutorials and Tips: [GameDevBox](https://www.youtube.com/channel/UCgXs2PTiL19Rv1qOn1SI7XQ)
 
-🔥See the tutorial for how you can set it up: https://youtu.be/oe3bxapfURQ 
-
+🔥See the tutorial for how you can set it up: https://youtu.be/vlb5LKgxTec
 
 ## Social Media: 
 • [X/Twitter](https://x.com/ArianKhatiban)
