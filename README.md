@@ -2,11 +2,11 @@
 With the script provided, simply use Draw Boxcast. modular and super easy to use.
 
 ### How To Use:
--Download DebugBoxCast.cs
+- Download DebugBoxCast.cs
 
--There are 4 functions to call **SimpleDrawBox** **DrawBoxCastOnHit** **SimpleDrawBoxCast** **AdvancedDrawBoxCast**
+- There are 4 functions to call **SimpleDrawBox** **DrawBoxCastOnHit** **SimpleDrawBoxCast** **AdvancedDrawBoxCast**
 
--If you need an example, I include a BoxRaycastSampler.cs 
+- If you need an example, I include a BoxRaycastSampler.cs 
 
 - Watch the YouTube tutorial.
 
